@@ -1,0 +1,75 @@
+name: fairy.paucek
+description: Phased
+version: 0.0.1
+author: wqcwvgvy.j2wn5bmf@xmerqp0j.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: fairypaucek
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-05 10:20:17'
+pipelines:
+  pipelines/Yvonne_NaderI__BallGilma_Dare:
+    name: Yvonne_NaderI__BallGilma_Dare
+    description: null
+    author: wqcwvgvy.j2wn5bmf@xmerqp0j.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-02-05 10:20:17'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+  pipelines/Dr__Abraham_KutchRoman_HolidayIvan_Koelpin:
+    name: Dr__Abraham_KutchRoman_HolidayIvan_Koelpin
+    description: null
+    author: wqcwvgvy.j2wn5bmf@xmerqp0j.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-02-05 10:20:18'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-05 10:20:17'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-05T10:20:17.711573Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '966336798'
+  createdAt: '2025-02-05T10:20:17.711573Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
